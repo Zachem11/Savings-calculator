@@ -1,6 +1,6 @@
 # NO GUI
 #GPLv3
-
+# Python 3.10.9
 print("write your current balance")
 current_balance = float(input())
 print("write monthly amount, which will you add to saings")
