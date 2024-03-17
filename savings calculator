@@ -9,6 +9,6 @@ monthly_adding = float(input))
 
 
 # NO GUI
-#GPLv3
+# GPLv3
 # Python 3.10.9
 # PyCharm 2023.2.2 (Community Edition)
