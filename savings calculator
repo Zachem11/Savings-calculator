@@ -2,7 +2,7 @@ print("write your current balance")
 current_balance = float(input())
 print("write monthly amount, which will you add to saings")
 monthly_adding = float(input))
-print(
+print("write
 
 
 
