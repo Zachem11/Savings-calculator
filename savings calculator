@@ -1,8 +1,4 @@
-print("write your current balance")
-current_balance = float(input())
-print("write monthly amount, which will you add to saings")
-monthly_adding = float(input))
-print("write number of monthes"
+print("your current balance is?")
 
 
 
