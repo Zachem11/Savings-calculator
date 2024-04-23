@@ -1,4 +1,5 @@
 print("your current balance is?")
+current_balance = float(input))
 
 
 
