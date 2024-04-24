@@ -1,5 +1,8 @@
 print("your current balance is?")
-current_balance = float(input))
+current_balance = float(input())
+
+print("how much money are you going to add every month?")
+flow_of_money = float(input())
 
 
 
