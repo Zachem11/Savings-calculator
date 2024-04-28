@@ -4,11 +4,13 @@ current_balance = float(input())
 print("How much money can you save monthly?")
 flow_of_money = float(input())
 
-print("how many years are you going to create savings?")
+print("how many years are you going to save money?")
 monthes = float(input())
 
 amount = current_balance + flow_of_money * monthes
 print(amount)
+
+
 
 
 
