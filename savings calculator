@@ -10,6 +10,8 @@ monthes = float(input())
 amount = current_balance + flow_of_money * monthes
 print(amount)
 
+required_amount = float(input())
+
 
 
 
